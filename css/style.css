@@ -1,0 +1,57 @@
+#slideshow {
+    margin-top: 6em;
+}
+
+.carousel-inner .item img {
+    margin: auto;
+}
+
+.carousel-control.left {
+    margin: auto;
+    background-image: none !important;
+}
+
+.carousel-control.right {
+    margin: auto;
+    background-image: none !important;
+}
+
+.carousel-indicators {
+    margin-bottom: -50px;
+}
+
+.carousel-indicators .active {
+    background-color: grey;
+}
+
+.carousel-indicators li {
+    background-color: lightgrey;
+}
+
+.jumbotron {
+    margin-top: 6em;
+    background: #1CD8D2;
+    background: -webkit-linear-gradient(to right, #93EDC7, #1CD8D2);
+    background: linear-gradient(to right, #93EDC7, #1CD8D2);
+}
+
+.row {
+    margin: 50px;
+}
+
+.row p {
+    font-size: 1em;
+}
+
+.row img {
+    height: 350px;
+    opacity: 0.8;
+}
+
+.column {
+    padding: 20px;
+}
+
+.space {
+    height: 20px;
+}
